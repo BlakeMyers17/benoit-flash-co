@@ -11002,10 +11002,11 @@ html {
   max-width: 25rem;
   border-radius: 0.5rem;
   overflow: hidden;
+  margin-top: 10px;
 }
 .portfolio .portfolio-item .portfolio-item-caption {
   position: absolute;
-  top: 0;
+  top: ;
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
